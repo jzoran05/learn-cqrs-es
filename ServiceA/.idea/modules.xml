@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CQRS-ES-01.iml" filepath="$PROJECT_DIR$/.idea/modules/CQRS-ES-01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CQRS-ES-01-build.iml" filepath="$PROJECT_DIR$/.idea/modules/CQRS-ES-01-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CQRS-ES.ServiceA.iml" filepath="$PROJECT_DIR$/CQRS-ES.ServiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceA.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceA-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceA-build.iml" />
     </modules>
   </component>
 </project>
