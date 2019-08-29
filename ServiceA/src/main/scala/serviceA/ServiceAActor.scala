@@ -1,5 +1,0 @@
-package serviceA
-
-class ServiceAActor {
-
-}
