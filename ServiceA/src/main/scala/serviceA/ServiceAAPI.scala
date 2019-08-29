@@ -1,0 +1,5 @@
+package serviceA
+
+class ServiceAAPI {
+
+}
