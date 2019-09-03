@@ -1,44 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dfbb8f5-8839-475d-87b9-fb48a4b3077a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Module.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/AsyncController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/CountController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/HomeController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/filters/ExampleFilter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/ApplicationTimer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/Counter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/index.scala.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/main.scala.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/welcome.scala.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/external.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/header-pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/stylesheets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/azureSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_13_2_5_24_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_13_0_9_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" beforeDir="false" />
+    <list default="true" id="d13263d0-4c33-4ac4-a685-e26ff263d53e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_3_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CQRS-ES-01-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CQRS-ES-01.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/1803b69c098b92cce76ccc17e8a427247a41a62a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275d783e298228506068436512433d343feb52aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ec991dda8ea850bdcc903836e67e8f2c61ddb3f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,12 +17,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -66,8 +31,8 @@
       <array>
         <option value="_root_.play.twirl.api.Txt" />
         <option value="play.api.templates.PlayMagic._" />
-        <option value="_root_.play.twirl.api.JavaScript" />
         <option value="_root_.play.twirl.api.Xml" />
+        <option value="_root_.play.twirl.api.JavaScript" />
         <option value="_root_.play.twirl.api.Html" />
         <option value="_root_.play.twirl.api.TwirlHelperImports._" />
         <option value="_root_.play.twirl.api.TwirlFeatureImports._" />
@@ -77,14 +42,11 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1Q7C8KWA3QkjD21xnKF6TZxJ8i5" />
+  <component name="ProjectId" id="1QKlORtSNyTr2iBF8tRIljKSM1g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,7 +101,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="servicea [file:/home/zoran/source/Learn/learn-cqrs-es/ServiceA/]" />
+                <option name="name" value="servicea [file:/home/zoran/sources/learn/cqrs-es/learn-cqrs-es/ServiceA/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -153,7 +115,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4701336259620" />
+        <entry key="$PROJECT_DIR$" value="4702581405186" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2585668057" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2457431526" />
@@ -161,8 +123,7 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../Sbt/PlayMultiProjectSeed01" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$" value="IMPORT" />
       </map>
     </option>
   </component>
@@ -171,17 +132,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7dfbb8f5-8839-475d-87b9-fb48a4b3077a" name="Default Changelist" comment="" />
-      <created>1567112086524</created>
+      <changelist id="d13263d0-4c33-4ac4-a685-e26ff263d53e" name="Default Changelist" comment="" />
+      <created>1567527135034</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567112086524</updated>
-      <workItem from="1567112088150" duration="625000" />
+      <updated>1567527135034</updated>
+      <workItem from="1567527136759" duration="22000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
