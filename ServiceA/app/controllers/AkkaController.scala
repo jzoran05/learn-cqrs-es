@@ -6,13 +6,14 @@ import javax.inject._
 import akka.pattern.ask
 import scala.concurrent.duration._
 import akka.util.Timeout
+import scala.concurrent.ExecutionContext
 //import scala.concurrent.ExecutionContext.Implicits.global
-import play.api.libs.concurrent.Execution.Implicits._
+//import play.api.libs.concurrent.Execution.Implicits._
 
 @Singleton
 class AkkaController @Inject()(
                                 system: ActorSystem,
-                                cc: ControllerComponents) extends AbstractController(cc) {
+                                cc: ControllerComponents) (implicit ec: ExecutionContext) extends AbstractController(cc) {
 
   import akka.HelloActor
 
