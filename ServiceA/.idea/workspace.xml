@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d13263d0-4c33-4ac4-a685-e26ff263d53e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/akka/actor/HelloActor.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/akka/HelloActor.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/AkkaController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AkkaController.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +162,8 @@
       <updated>1567527135034</updated>
       <workItem from="1567527136759" duration="1648000" />
       <workItem from="1567528824701" duration="3881000" />
-      <workItem from="1567625320788" duration="2166000" />
+      <workItem from="1567625320788" duration="3186000" />
+      <workItem from="1567707365739" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="baseline">
       <created>1567527316918</created>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567626968198</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed code by injecting execution context (somehow :) )">
+      <created>1567627573094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567627573094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +215,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="baseline" />
     <MESSAGE value="adding actor and controller - code still not working. global execution context not allowed" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding actor and controller - code still not working. global execution context not allowed" />
+    <MESSAGE value="fixed code by injecting execution context (somehow :) )" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed code by injecting execution context (somehow :) )" />
   </component>
 </project>
