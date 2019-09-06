@@ -6,9 +6,9 @@
 - Service A
   - Play framework REST API receives (UI) command/action (Play REST acts as Port/Adapter in Hexagonal arch)
   - Akka actor (persistance) receives command
-  - Akka actor process command and fire event (that command is processed)
+  - Akka actor process command and fire event (that command is processed) and writes to Kafka (if possible use persistance with Kafka)
   - Service creates (Q)uery model based on events in journal (available in Kafka)
 - Service B
-  - Listens to events fired fro Service A on Kafka topic
+  - Listens to events fired from Service A on Kafka topic
 
 ## Sprint 1
