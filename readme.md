@@ -10,5 +10,7 @@
   - Service creates (Q)uery model based on events in journal (available in Kafka)
 - Service B
   - Listens to events fired from Service A on Kafka topic
+- Add Gatling Load tests
+- Add JMeter load tests ( and compare with JMeter)
 
 ## Sprint 1
