@@ -15,4 +15,9 @@ GET     /assets/*file               controllers.Assets.versioned(path="/public",
 
 GET     /sayHello/:name             controllers.AkkaController.sayHello(name: String)
 
-      
+
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home
