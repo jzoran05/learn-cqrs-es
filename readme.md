@@ -11,6 +11,6 @@
 - Service B
   - Listens to events fired from Service A on Kafka topic
 - Add Gatling Load tests
-- Add JMeter load tests ( and compare with JMeter)
+- Add JMeter load tests ( and compare with Gatling)
 
 ## Sprint 1
